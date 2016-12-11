@@ -1,0 +1,2 @@
+# codewars
+Katas codewars
